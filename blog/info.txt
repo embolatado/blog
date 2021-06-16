@@ -3,3 +3,5 @@ Test git
 No funcionó
 
 Cambio de password en github.com
+
+Funcionó así. Comprobar que guarde el token
